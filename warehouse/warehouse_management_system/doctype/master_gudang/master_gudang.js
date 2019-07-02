@@ -20,7 +20,7 @@
   }
   
   );
-
+  
   frappe.ui.form.on('Master Gudang', 'total_jumlah_barang', function(frm) {
     {
 	
